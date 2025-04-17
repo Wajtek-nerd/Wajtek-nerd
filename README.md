@@ -23,7 +23,7 @@ I am a **Senior Embedded Engineer (R&D)** with expertise in **embedded systems, 
 - 🛠 **Desktop PCB Engraving Machine (Two-Layer PCB Printing)**  
 - 🔌 **CAN-Based System Architecture using RP2040**  
 - 🤖 **Human-Following Robot using ESP32 & OpenCV**  
-- 🖨 **DLP-Based Bio 3D Printer – First in India**  
+- 🖨 **DLP-Based Bio 3D Printer – **  
 
 ---
 
