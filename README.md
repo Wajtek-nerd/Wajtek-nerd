@@ -28,7 +28,7 @@ I am a **Senior Embedded Engineer (R&D)** with expertise in **embedded systems, 
 ---
 
 ## 📫 Connect With Me  
-💼 [LinkedIn](#) | 📧 [Email](#) | 🌐 [Portfolio](#)  
+💼 [LinkedIn](#sudhanshu-mohan-b86b61133) | 📧 [Email](#er.sudhasnhu22@gmail.com) | 🌐 [Portfolio](#)  
 
 Let's build something amazing together! 🚀
 
